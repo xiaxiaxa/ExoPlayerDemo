@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyExoPlayerDemo</string>
+    <string name="hls">hls流播放</string>
+</resources>
